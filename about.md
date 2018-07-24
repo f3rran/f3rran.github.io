@@ -1,15 +1,14 @@
 ---
 layout: page
-title: About
+title: Sobre mi
 permalink: /about/
 ---
+Hola yo soy f3rran creador de este blog. Un saludo
 
-Some information about you!
+###Otros
 
-### More Information
+Podéis contactarme por las redes sociales
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
+### Contacto
 
 [email@domain.com](mailto:email@domain.com)
