@@ -5,7 +5,7 @@ permalink: /about/
 ---
 Hola yo soy f3rran creador de este blog. Un saludo
 
-###Otros
+### Otros
 
 Podéis contactarme por las redes sociales
 
