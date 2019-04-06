@@ -1,10 +1,13 @@
 ---
 layout: post
-title: You're up and running!
+title: Hola mundo!
 ---
 
-Empezamos con esta wea jajajjaja.
+Muy buenas. 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Hace tiempo estuve trasteando con CMS alternativos al famoso Wordpress como pueden ser Drupal, una de sus más famosas alternativas y Jekyll, que es el actual.
+Se trata de un CMS estático que no necesita base de datos, lo que lo convierte en una alternativa que requiere muy poco y muy interesante que he decidido probar para ver que se puede conseguir con él.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+El uso de este 'blog' por decirlo así va a ser dar un soporte extra a los diferentes medios de los que ya dispongo para publicar como pueden ser Youtube: www.youtube.com/f3rran donde os podéis suscribir si todavía no lo estáis.
+
+Un saludo
