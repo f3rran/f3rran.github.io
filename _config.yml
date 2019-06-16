@@ -9,7 +9,8 @@ name: f3rran
 description: Desarrollador con una taza de café
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+#avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://pbs.twimg.com/profile_images/1140305997577236480/x_l7WpdC_400x400.png
 
 #
 # Flags below are optional
@@ -26,7 +27,7 @@ footer-links:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: ferr4n98
+  twitter: f3rranyt
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: f3rran # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
