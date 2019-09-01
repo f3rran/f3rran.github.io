@@ -12,7 +12,7 @@ Aquí os dejo tanto la versión podcast en Ivoox como en video en Youtube:
 {% include youtubePlayer.html id=g6HYwhvEh_0 %}
 
 El video en Yotube:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6HYwhvEh_0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 Un saludo
