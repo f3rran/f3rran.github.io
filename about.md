@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sobre mi
-permalink: /sobre-mi/
+permalink: /Acerca/
 ---
 Hola! Yo soy Ferran, creador de esta web.
 Actualmente me encuentro estudiando cuarto de Ingeniería Informática con la mención de Sistemas de la Información en la UPV. En mis ratos libres saco tiempo para crear contenido tanto para esta web, como mi canal de Youtube o mi Podcast. Todo lo anterior trae consigo cierto aprendizaje y gestión de la productividad que os cuento en las entradas de esta web. 
