@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Sobre mi
-permalink: /about/
+permalink: /sobre-mi/
 ---
-Hola yo soy f3rran creador de este blog. 
-Además de editar y tratar de mantener este sitio web al día, me dedico la mayoría del tiempo a estudiar Ingeniería Informática en la especialización de Sistemas de la Información. Cuando tengo tiempo, trato de aprender y descubrir nuevas tecnologías que aplicar a mi vida o ayudar a los demás.
+Hola! Yo soy Ferran, creador de esta web.
+Actualmente me encuentro estudiando cuarto de Ingeniería Informática con la mención de Sistemas de la Información en la UPV. En mis ratos libres saco tiempo para crear contenido tanto para esta web, como mi canal de Youtube o mi Podcast. Todo lo anterior trae consigo cierto aprendizaje y gestión de la productividad que os cuento en las entradas de esta web. 
 
 Actualmente trato de aprender como crear contenido de calidad en Youtube y también en formato Podcast.
+<li>Visita todos los links en <a href="://f3rran.github.io///f3rran.github.io/"><a href="https://linktr.ee/f3rran/" class="uri">https://f3rran.github.io/</a></a></li>
 
 
 ### Otros
