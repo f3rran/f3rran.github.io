@@ -53,7 +53,7 @@ Con este plugin se dotará a la intranet de la capacidad de generar y compartir 
 #### Instalar WP Customer Area - Enhanced files
 Con este plugin se habilita la subida de varios archivos dentro de lo que este plugin entiende como un archivo. Puede ser útil para entregar, por ejemplo, una rutina de gimnasio en varios formatos; PDF,JPG…
 
-####Instalar WP Customer Area - Notifications
+#### Instalar WP Customer Area - Notifications
 Es necesario para generar notificaciones por correo electrónico, tanto para los administradores, que estén al corriente de qué pasa como para los clientes al subir contenido nuevo que necesiten o que pueda interesarles, por ejemplo al subir una rutina, que le llegue un aviso al cliente de que ya la tiene disponible. El activar la notificación se realiza en la generación de contenido, es decir por ejemplo al generar una página.
 - Al instalarse, recordar seguir las instrucciones que da el plugin y generar las páginas necesarias para su funcionamiento.
 - Y actualizar el menú de navegación para poder acceder a dichas páginas creadas.
