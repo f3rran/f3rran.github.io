@@ -9,11 +9,11 @@ Este tutorial se enfocará en un término general para la generación de una Int
 
 ###Estructura:
 
--Blog con noticias, novedades y contenido que ofrecer a los clientes y no clientes que visiten el sitio con lo que aportar valor.
--Dentro de la intranet compartir rutinas de deporte. Opcionalmente poder imprimir en PDF.
--Dentro de la intranet compartir dietas alimenticias. Opcionalmente poder imprimir en PDF.
--Notificaciones a clientes por correo electrónico.
--Perfil personalizado para clientes con; medidas(altura), peso, dieta(vegana, omnivora…), datos personales,etc. 
+- Blog con noticias, novedades y contenido que ofrecer a los clientes y no clientes que visiten el sitio con lo que aportar valor.
+- Dentro de la intranet compartir rutinas de deporte. Opcionalmente poder imprimir en PDF.
+- Dentro de la intranet compartir dietas alimenticias. Opcionalmente poder imprimir en PDF.
+- Notificaciones a clientes por correo electrónico.
+- Perfil personalizado para clientes con; medidas(altura), peso, dieta(vegana, omnivora…), datos personales,etc. 
 
 ###Recursos:
 
@@ -47,29 +47,29 @@ Por ejemplo, en el caso que concierne a este documento, en caso de realizar una 
 
 ####Instalar WP Customer Area - Front-Office Publishing
 Con este plugin se dotará a la intranet de la capacidad de generar y compartir contenido desde la propia intranet. Sin este plugin, la generación de documentación o contenido debe hacerse desde el propio panel de administración de Wordpress, algo que puede ser peligroso y perjudicial para el buen funcionamiento de Wordpress.
--Al instalarse, recordar seguir las instrucciones que da el plugin y generar las páginas necesarias para su funcionamiento.
--Y actualizar el menú de navegación para poder acceder a dichas páginas creadas.
+- Al instalarse, recordar seguir las instrucciones que da el plugin y generar las páginas necesarias para su funcionamiento.
+- Y actualizar el menú de navegación para poder acceder a dichas páginas creadas.
 
 ####Instalar WP Customer Area - Enhanced files
 Con este plugin se habilita la subida de varios archivos dentro de lo que este plugin entiende como un archivo. Puede ser útil para entregar, por ejemplo, una rutina de gimnasio en varios formatos; PDF,JPG…
 
 ####Instalar WP Customer Area - Notifications
 Es necesario para generar notificaciones por correo electrónico, tanto para los administradores, que estén al corriente de qué pasa como para los clientes al subir contenido nuevo que necesiten o que pueda interesarles, por ejemplo al subir una rutina, que le llegue un aviso al cliente de que ya la tiene disponible. El activar la notificación se realiza en la generación de contenido, es decir por ejemplo al generar una página.
--Al instalarse, recordar seguir las instrucciones que da el plugin y generar las páginas necesarias para su funcionamiento.
--Y actualizar el menú de navegación para poder acceder a dichas páginas creadas.
+- Al instalarse, recordar seguir las instrucciones que da el plugin y generar las páginas necesarias para su funcionamiento.
+- Y actualizar el menú de navegación para poder acceder a dichas páginas creadas.
 
 
 
 ####Instalar WP Customer Area - Conversations
 Mensajería interna en la intranet. Funciona como los comentarios de una página. Básicamente puede ser útil si no se emplean los comentarios de las páginas o archivos. Sería una buena idea comentarlo si se quiere externalizada la conversación, para poder entregar la misma rutina a varios clientes o dieta.
--Al instalarse, recordar seguir las instrucciones que da el plugin y generar las páginas necesarias para su funcionamiento.
--Y actualizar el menú de navegación para poder acceder a dichas páginas creadas.
+- Al instalarse, recordar seguir las instrucciones que da el plugin y generar las páginas necesarias para su funcionamiento.
+- Y actualizar el menú de navegación para poder acceder a dichas páginas creadas.
 
 
 ####Instalar WP Customer Area - Tarks
 Puede ser útil para generar listas de tareas. Principalmente su uso debería ser a nivel interno de la empresa y podría no ser del todo factible su uso.
--Al instalarse, recordar seguir las instrucciones que da el plugin y generar las páginas necesarias para su funcionamiento.
--Y actualizar el menú de navegación para poder acceder a dichas páginas creadas.
+- Al instalarse, recordar seguir las instrucciones que da el plugin y generar las páginas necesarias para su funcionamiento.
+- Y actualizar el menú de navegación para poder acceder a dichas páginas creadas.
 
 ####Instalar WP Customer Area - Projects
 Genera proyectos como si fueran páginas pero con información adicional destinada a crear proyectos. 
