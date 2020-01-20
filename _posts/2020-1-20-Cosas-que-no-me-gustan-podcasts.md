@@ -8,6 +8,8 @@ Hacía tiempo que no me pasaba por aquí y creo que ya he dejado pasar suficient
 
 El tema que me ha parecido ahora mejor que más tarde es el que ya habrás léido en el título; hay ciertos puntos de los podcast que escucho, no todos, por supuesto, pero añgunos de estos creo que tienen ciertos puntos a mejorar, eso si, siempre para mi gusto y pueden ser diferentes para otras personas. También me sirve personalmente ya que tengo planeado esta semana empezar a trabajar otra vez con contenido multimedia en el podcast y en Youtube y por tanto, creo que puede ser una buena referencia para mi y analizar qué errores no me gustaría realizar.
 
+![Podcast](https://dynamic.thoughtworks.com/landing_pages/inline_image_mobile-0b3bf0c8b154073a2fb52f7aba209aab.jpeg)
+
 ## La descripción 
 ### 1.- No incluir ninguna descripción
 Empezamos con la descripción, uno de los puntos cruciales para convencer a los indecisos de escuchar el podcast. Personalmente, me pasa muchas veces que leo el título de un podcast y me quedo indeciso de si añadirlo a mi lista de pendientes o no. En estos casos, los podcasters que no incluyen ningún tipo de descripción me lo ponen bastante fácil y directamente los descarto. 
@@ -18,6 +20,8 @@ Tampoco recomendaría todo lo contrario; el insertar en la descripción todas la
 
 ### 3.- Añadir contenido irrelevante
 Veo muchas veces también, con el afán de monetizar o atraer hacia otro contenido se añaden ciertos enlaces que realmente no tienen nada que ver con lo escuchado más que lo ha realizado el podcaster o simplemente este es el vínculo. Creo que reduciendo al mínimo (o incluso cero) este tipo de contenido ayudará a clarificar el mensaje que se quiere dar y ayudará a fidelizar mejor al oyente.
+
+![Podcast](https://s3.amazonaws.com/uploads.hotmart.com/blog/2018/07/BLOG_podcast-670x419.png)
 
 ## El audio
 Pasamos a analizar el contenido en si de los audios que se suben como episodios del podcast.
@@ -31,6 +35,8 @@ Muchas veces, el podcaster necesita descansar o articular el contenido según cr
 
 ### 3.- Publicidad demasiado larga
 Es totalmente comprensible. A mayor duración mayores ganancias. Pero se debe tener en cuenta también la gente que se puede perder al poner publicidad tan larga. Hay muchos programas, largos ya de por si. Sí a esto se le suma publicidad extensa puede ser un cóctel perfecto para ir en descenso.
+
+![Podcast](https://www.bbva.com/wp-content/uploads/2018/06/podcast-micro-bbva-1024x683.jpg)
 
 ## La difusión
 Finalmente voy a hablar de la difusión en si del podcast. Es decir, como llega al oyente.
