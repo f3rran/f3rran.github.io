@@ -4,7 +4,7 @@ title: Cosas que no me gustan (de algunos) podcasts
 ---
 
 Hey buenas! 
-Hacía tiempo que no me pasaba por aquí y creo que ya he dejado pasar suficiente tiempo hasta volver a escribir (demasiado sería palabra correcta).
+Hacía tiempo que no me pasaba por aquí y creo que ya he dejado pasar suficiente tiempo hasta volver a escribir (demasiado sería la palabra correcta).
 
 El tema que me ha parecido ahora mejor que más tarde es el que ya habrás léido en el título; hay ciertos puntos de los podcast que escucho, no todos, por supuesto, pero añgunos de estos creo que tienen ciertos puntos a mejorar, eso si, siempre para mi gusto y pueden ser diferentes para otras personas. También me sirve personalmente ya que tengo planeado esta semana empezar a trabajar otra vez con contenido multimedia en el podcast y en Youtube y por tanto, creo que puede ser una buena referencia para mi y analizar qué errores no me gustaría realizar.
 
@@ -32,5 +32,12 @@ Muchas veces, el podcaster necesita descansar o articular el contenido según cr
 ### 3.- Publicidad demasiado larga
 Es totalmente comprensible. A mayor duración mayores ganancias. Pero se debe tener en cuenta también la gente que se puede perder al poner publicidad tan larga. Hay muchos programas, largos ya de por si. Sí a esto se le suma publicidad extensa puede ser un cóctel perfecto para ir en descenso.
 
+## La difusión
+Finalmente voy a hablar de la difusión en si del podcast. Es decir, como llega al oyente.
+### 1.- Varios feed y encima con diferentes tiempos de subidas
+El no encontrar el podcast o peor encontrarlo en tu podcatcher repetido puede ser frustrante para el oyente. Es importante tener un feed unificado donde poder aplicar todos los cambios y anunciar que el nuevo episodio está disponible cuando realmente esté disponible. Puede ser bastante frustrante ver por redes sociales que se anuncie el capítulo, ir a Pocket Casts, por ejemplo y ver que realmente no te ha salido nada. 
+### 2.- Subidas irregulares/subir más de lo que se puede abarcar
+Este punto es autocrítica pura i dura. Lo admito, creo que este lo incumplo con creces pero me justifico en que tengo estudios que atender y otras responsabilidades que atender con más prioridad. Aún así, mea culpa. Es importante tener un cierto ciclo de contenido que ayude a tener el oyente 'enganchado' o que al menos sepa cuando buscarte para poder disponer de contenido.
 
+Nada más por mi parte, creo que aquí dejo algunas directrices bastante claras de como enfocar las 'reglas' a la hora de crear un podcast y qué errores debo evitar a partir de esta semana que tengo planeado centrarme más en la creación de contenido multimedia y voy a empezar en nada a preparar contenido que grabaré el fin de semana.
 
